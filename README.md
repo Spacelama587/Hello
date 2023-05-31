@@ -37,15 +37,11 @@
 
 # 📖 Hello Microverse Project <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **Hello Microverse Project** is a simple Hello World repository, configured with linters for html and css
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -60,8 +56,6 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **Linter for HTML**
 - **LInter for CSS**
@@ -104,8 +98,6 @@ npx hint .
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
@@ -116,8 +108,6 @@ npx hint .
 
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **Responsive Sites**
 - [ ] **Dynamic Sites**
@@ -134,12 +124,16 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse team.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
